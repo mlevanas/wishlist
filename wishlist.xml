@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" method="upgrade" type="component">
+
+	<name>Wishlist component</name>
+	
+	<files folder="site">
+		<folder>views</folder>
+		<folder>models</folder>
+		<folder>controllers</folder>
+	</files>
+	
+	<administration>
+	</administration>
+</extension>
